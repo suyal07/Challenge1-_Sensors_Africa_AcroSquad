@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@aws-amplify/ui-react": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "latest",
+    "aws-amplify": "latest"
+  }
+}
